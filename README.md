@@ -5,9 +5,9 @@
 ### 1. Install Python
 Ensure you have Python installed on your system. You can download it from the official [Python website](https://www.python.org/).
 ### 2. Clone Repository
-### 3. Move to folder backend_attendance
+### 3. Move to folder attendance_management_sytems_be_yolo_v5
         ```bash
-        cd backend_attendance
+        cd attendance_management_sytems_be_yolo_v5
         ```
 ### 3. Install dependency
         ```bash
