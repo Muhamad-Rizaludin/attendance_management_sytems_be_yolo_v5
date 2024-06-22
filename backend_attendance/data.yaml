@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['1219002', '1219010', '1219016', '1219019', '3219004', '3219017']
+
+roboflow:
+  workspace: muhamad-rizaludin-2iyhw
+  project: detection_face-hlcma
+  version: 41
+  license: Public Domain
+  url: https://universe.roboflow.com/muhamad-rizaludin-2iyhw/detection_face-hlcma/dataset/41
